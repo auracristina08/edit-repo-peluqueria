@@ -1,0 +1,8 @@
+com\mycompany\peluqueriageral\resources\JakartaEE10Resource.class
+servlets\svinicio_sesion.class
+servlets\preparedStatement.class
+validaciones\svalidaciones.class
+com\mycompany\peluqueriageral\JakartaRestConfiguration.class
+servlets\svcarrito.class
+servlets\svproductos.class
+servlets\svcontactenos.class

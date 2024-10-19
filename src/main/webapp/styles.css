@@ -1,0 +1,126 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28/09/2024, 5:14:35 p. m.
+    Author     : aurcr
+*/
+
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #440436 !important; /* Color de fondo del encabezado */
+    color: white !important;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+/* Estilos de la navegación */
+.navbar {
+    margin-bottom: 20px;
+    background-color: #94688d !important; /* Color de fondo de la barra de navegación */
+    text-align: center;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffc107 !important; /* Color de hover para los enlaces */
+}
+
+/* Estilos del contenido principal */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Estilos de las tarjetas de productos */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    margin-bottom: 20px;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto; 
+    object-fit: cover; /* Esto asegura que la imagen mantenga su proporción sin cortarse */
+}
+
+.btn-primary {
+    background-color: #440436 !important; /* Botones con el color de fondo del encabezado */
+    border-color: #440436 !important;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: #5b0550 !important; /* Color de hover para los botones */
+}
+
+/* Estilos de la sección "¿Cómo comprar con nosotros?" */
+.list-group-item {
+    font-size: 1rem;
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #440436 !important; /* Color de fondo del pie de página */
+    color: white !important;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #ffc107 !important; /* Color de los enlaces en el pie de página */
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos responsivos */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    .card-img-top {
+        height: 150px;
+    }
+}
+
+
+
+
