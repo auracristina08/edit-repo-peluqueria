@@ -4,5 +4,6 @@ servlets\preparedStatement.class
 validaciones\svalidaciones.class
 com\mycompany\peluqueriageral\JakartaRestConfiguration.class
 servlets\svcarrito.class
+servlets\passwordrec.class
 servlets\svproductos.class
 servlets\svcontactenos.class

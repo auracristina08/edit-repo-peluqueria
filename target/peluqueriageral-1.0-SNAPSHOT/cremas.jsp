@@ -116,13 +116,13 @@
 <body>
 
     <header>
-        <h1>Nuestros Cremas</h1>
+        <h1>Nuestras Cremas</h1>
     </header>
 
     <main class="products-container">
         <!-- Producto 1 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/100090_1_17.jpg?itok=Dv99-HJL"  width="500" alt="Tododia Morada">
+            <img src="https://d22fxaf9t8d39k.cloudfront.net/5a30fe0450b33cda91ff5f7ee4668bc56389c7c5cbff03036928825caf7d7c4839719.jpeg"  width="500" alt="Tododia Morada">
             <h2>Crema nutritiva corporal ciruela y flor de vainilla</h2>
             <p>Tecnología inteligente, piel profundamente nutrida.</p>
             <div class="price">$50,000</div> <!-- Precio del producto -->
@@ -131,7 +131,7 @@
 
         <!-- Producto 2 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/80936_1_17.jpg?itok=Rt-HfAOc" width="200" alt="Humor Conexion">
+            <img src="https://th.bing.com/th/id/OIP.c3Hj0MknbYxFfTdyqUDblQHaHa?w=800&h=800&rs=1&pid=ImgDetMain" width="200" alt="Humor Conexion">
             <h2>Pulpa hidratante corporal castaña</h2>
             <p>Potencia biocosmética para realimentar las capas de la piel de tu cuerpo.</p>
             <div class="price">$93,000</div> <!-- Precio del producto -->
@@ -140,7 +140,7 @@
 
         <!-- Producto 3 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/74898_1_12.jpg?itok=dkKeqcwh" width="500" alt="Kaiak Fem Clasic">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_2X_727729-MLC44171773801_112020-F.jpg" width="100" alt="Kaiak Fem Clasic">
             <h2>Crema nutritiva corporal nuez pecán y cacao</h2>
             <p>Una combinación equilibrada de ingredientes naturales con acción prebiótica que alimenta y fortalece la microbiota de la piel, nuestra primera barrera protectora.</p>
             <div class="price">$66,000</div> <!-- Precio del producto -->

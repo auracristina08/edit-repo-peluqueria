@@ -122,7 +122,7 @@
     <main class="products-container">
         <!-- Producto 1 -->
         <section class="product">
-            <img src="https://staticco.natura.com/cdn/ff/g-u4Zg4MaPdy8aAXcB68_Hfj_YvCfUiyY6gO9Pg9ZC4/1727762038/public/products/64746_2_7.jpg"  width="150" alt="Humor Rojo">
+            <img src="https://plazavea.vteximg.com.br/arquivos/ids/773288-1000-1000/image-d6d13aa3d0f342729f0683352b15912a.jpg?v=637485944800270000"  width="200" alt="Humor Rojo">
             <h2>Humor meu primeiro</h2>
             <p>El encuentro de las notas cítricas con un cóctel de frutas vibrantes, contrastado con una irresistible frescura de pera.</p>
             <div class="price">$85,000</div> <!-- Precio del producto -->
@@ -131,7 +131,7 @@
 
         <!-- Producto 2 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/131492_1_2.jpg?itok=-BZ0TPsz" width="200" alt="Humor Conexion">
+            <img src="https://fimgs.net/mdimg/perfume/375x500.93130.jpg" width="200" alt="Humor Conexion">
             <h2>Humor conexión masculino</h2>
             <p>Amaderado frutal que recrea la emoción de sintonizar con un mismo ritmo. La energía única del acorde Natura Humor, creado capturando la vibra de los festivales, armoniza con la hazaña inesperada del coco y la piña, con una mezcla de especias y priprioca.</p>
             <div class="price">$145,000</div> <!-- Precio del producto -->
@@ -140,7 +140,7 @@
 
         <!-- Producto 3 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/111176_1_2.jpg?itok=v-FPVrno" width="150" alt="Kaiak Fem Clasic">
+            <img src="https://cazaofertascolombia.com/wp-content/uploads/2022/01/Perfume-KAiak-mujer.jpg" width="200" alt="Kaiak Fem Clasic">
             <h2>Kaiak clásico femenino</h2>
             <p>Bergamota, mandarina, jazmín Una frescura vibrante en una tarde soleada. Este clásico de la perfumería brasileña aporta una deslumbrante explosión cítrica de bergamota y naranja, con notas femeninas de jazmín.</p>
             <div class="price">$145,000</div> <!-- Precio del producto -->

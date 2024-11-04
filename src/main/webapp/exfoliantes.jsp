@@ -122,7 +122,7 @@
     <main class="products-container">
         <!-- Producto 1 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/70405_1_11.jpg?itok=fMnYodAh"  width="500" alt="Jabon liq exfoliante">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_791437-MCO46560822287_062021-O.webp"  width="110" alt="Jabon liq exfoliante">
             <h2>Jabón Líquido Exfoliante Ekos Maracuyá</h2>
             <p>Exfolia suavemente y mantiene el pH natural de la piel.</p>
             <div class="price">$42,000</div> <!-- Precio del producto -->
@@ -131,7 +131,7 @@
 
         <!-- Producto 2 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/121930_1_2.jpg?itok=blU2ZZFr" width="500" alt="Exfoliante corp">
+            <img src="https://th.bing.com/th/id/OIP.wyu9o_UbbAAs_i5v8KYS1AHaHa?w=590&h=590&rs=1&pid=ImgDetMain" width="500" alt="Exfoliante corp">
             <h2>Exfoliante corporal dátiles y canela</h2>
             <p>Gel exfoliante que remueve las impurezas profundas.</p>
             <div class="price">$30,000</div> <!-- Precio del producto -->

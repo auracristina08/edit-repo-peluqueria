@@ -131,7 +131,7 @@
 
         <!-- Producto 2 -->
         <section class="product">
-            <img src="https://staticco.natura.com/sites/default/files/styles/medium/public/products/134574_1_2.jpg?itok=6ZJRLuJv" width="500" alt="Jabon exfoliantEkos">
+            <img src="https://th.bing.com/th/id/R.fa96618308c98133ba9577b787d10ba3?rik=Rfp4fFuiZ6Xviw&pid=ImgRaw&r=0" width="500" alt="Jabon exfoliantEkos">
             <h2>Jabones cremosos y exfoliantes Ekos</h2>
             <p>Limpia, exfolia, perfuma y deja una sensación de frescura</p>
             <div class="price">$50,000</div> <!-- Precio del producto -->
